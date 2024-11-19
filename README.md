@@ -8,9 +8,6 @@ Rinco is a modern, responsive website design built with HTML, TailwindCSS, and D
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
